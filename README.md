@@ -2,12 +2,12 @@
 
 ✨ Working on research platforms for **autonomous vehicles** and **drones**.  
 📫 Research interests include perception, control, and planning.  
-🎓 Teaching STEM and supporting passionate students in the field of robotics at EIU FabLab, Binh Duong 🇻🇳.  
+🎓 Teaching STEM and supporting passionate students in the field of robotics at EIU FabLab, Ho Chi Minh city 🇻🇳.  
 🌱 I'm passionate about applying emerging technologies in the field of autonomous vehicles and drones.
 
 ### 📬 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/)
+[![LinkedIn](http://linkedin.com/in/eliot-nightray-9b8369379)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/uyen-vopham)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@cavoixanh_ngoicode)
 
